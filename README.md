@@ -1,4 +1,6 @@
-Project Name
+Project Name - DOM Project 1
+
+Hosted Link - https://rishabhindia.github.io/JS_DOM_Project_1/
 
 Overview
 
